@@ -1,1 +1,1 @@
-O código irá disparar um email para um endereço selecionado após uma análise de determinada base e dados, mostrando os principais indicadores.
+O repositótio consiste em automações de processos utilizando a linguagem de programção python em conjunto com suas bibliotecas.
