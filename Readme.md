@@ -1,0 +1,1 @@
+O código irá disparar um email para um endereço selecionado após uma análise de determinada base e dados, mostrando os principais indicadores.
