@@ -30,4 +30,4 @@
 
 ## 📁 Acesso ao projeto
 
-    Você pode acessar os arquivos do projeto neste mesmo diretório "Envio de relatório por email".
+    Você pode acessar os arquivos do projeto neste mesmo diretório "Envio de relatório por email" no arquivo "main.py".
