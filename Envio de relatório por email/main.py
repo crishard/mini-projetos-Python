@@ -1,3 +1,6 @@
 import pyautogui as pg
 import time
-import pyperclip
+import pyperclip as pclip
+
+pg.PAUSE = 1
+
